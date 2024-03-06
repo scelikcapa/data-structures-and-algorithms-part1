@@ -223,7 +223,6 @@ System.out.println(stack);
 // returns the last item without removing it
 System.out.println(stack.peek());
 System.out.println(stack.isEmpty());
-
 ``` 
 
 ## Queues
@@ -259,9 +258,9 @@ System.out.println(stack.isEmpty());
  15- Queues- Exercises
  
  16- Summary (0:57)
-Hash Tables (68 m)
+## Hash Tables (68 m)
  
- 1- Introduction (0:26)
+ 1- Introduction
  
  2- What are Hash Tables (2:44)
  
